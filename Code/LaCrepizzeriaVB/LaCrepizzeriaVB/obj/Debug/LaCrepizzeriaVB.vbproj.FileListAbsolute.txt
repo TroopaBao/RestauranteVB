@@ -1,0 +1,57 @@
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\bin\Debug\LaCrepizzeriaVB.exe.config
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\bin\Debug\LaCrepizzeriaVB.exe
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\bin\Debug\LaCrepizzeriaVB.pdb
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\bin\Debug\LaCrepizzeriaVB.xml
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.vbprojAssemblyReference.cache
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.AgregarPedido.resources
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.Area.resources
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.Login.resources
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.Menu.resources
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.MesaPlantaAlta.resources
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.MesaPlantaBaja.resources
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.Resources.resources
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.Pedidos.resources
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.Resumen.resources
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.vbproj.GenerateResource.cache
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.vbproj.CoreCompileInputs.cache
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.exe
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.xml
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.pdb
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.AgregarIngrediente.resources
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.EditarProducto.resources
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.EstadoMesa.resources
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.GastosConsulta.resources
+C:\Users\Gerardo\Documents\Proyecto Tec System\10mo Semestre\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.VentasConsulta.resources
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\bin\Debug\LaCrepizzeriaVB.exe.config
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\bin\Debug\LaCrepizzeriaVB.exe
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\bin\Debug\LaCrepizzeriaVB.pdb
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\bin\Debug\LaCrepizzeriaVB.xml
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.vbprojAssemblyReference.cache
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.AgregarIngrediente.resources
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.AgregarPedido.resources
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.Area.resources
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.EditarProducto.resources
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.EstadoMesa.resources
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.GastosConsulta.resources
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.Inicio.resources
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.Login.resources
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.Menu.resources
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.MesaPlantaAlta.resources
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.MesaPlantaBaja.resources
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.Resources.resources
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.Pedidos.resources
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.Resumen.resources
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.VentasConsulta.resources
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.vbproj.GenerateResource.cache
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.vbproj.CoreCompileInputs.cache
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.exe
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.xml
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.pdb
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.Compras.resources
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.Ingredientes.resources
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.Empleado.resources
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.ProductosHechos.resources
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.ProductosProcesados.resources
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.Ventas.resources
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\bin\Debug\adodb.dll
+C:\Users\Brian Lopez\Desktop\Administración de Base de Datos\LaCrepizzeriaVB\LaCrepizzeriaVB\obj\Debug\LaCrepizzeriaVB.vbproj.CopyComplete
